@@ -4,7 +4,7 @@
 
 ### Project description:
 
-I used 2 kind of List to manage, TreeSet<Book>, ArrayList<Author>
+''I used 2 kind of List to manage, TreeSet<Book>, ArrayList<Author>''
 
 Feature **Add new Book** in this project will not work if user add new book 
 
